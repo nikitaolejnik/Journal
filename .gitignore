@@ -1,0 +1,50 @@
+# Gradle
+.gradle/
+build/
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+target/
+
+
+# generated files
+bin/
+classes/
+gen/
+*/target/*
+
+# IDEA files
+.idea/
+out/
+*.iml
+
+# Eclipse files
+.userSettings/
+.settings/
+.classpath
+.project
+.metadata/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Visual Studio
+_UpgradeReport_Files/
+/*/_ReSharper.*/
+
+
+# Project related
+**.log
+**.project
+**.classpath
+**.settings
+node_modules/
+testing/wicket-js-tests/node/
+nb-configuration.xml
+
